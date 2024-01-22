@@ -1,2 +1,2 @@
-# MishlanovAlexandr
-my projct
+# Mishlanov Alexandr
+Задания по верстке от студента Мишланова Александра
